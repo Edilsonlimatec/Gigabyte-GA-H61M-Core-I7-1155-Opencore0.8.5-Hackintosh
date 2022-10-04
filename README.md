@@ -1,4 +1,4 @@
-### Core 2 Quad Q8400 Opencore:0.8.4 Hackintosh
+
 
              macOS Monterey 12.6
 
