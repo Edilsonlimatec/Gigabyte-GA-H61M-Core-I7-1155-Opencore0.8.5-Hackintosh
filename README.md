@@ -4,7 +4,8 @@
 
 
 
-  ``` Plataforma: Desktop |  3Th Ivy Bridge
+  ```
+Plataforma: Desktop |  3Th Ivy Bridge
 Placa Mãe: Gigabyte GA H61M-S1 - Soquete: LGA1155
 Processador: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz
 Vídeo: Radeon R7 265 
